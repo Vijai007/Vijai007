@@ -1,4 +1,5 @@
 # Implementation of Data Structures and Algorithms with C#
+First repository pulled from local to personal git 
 ### Data Structures - 
   1. Array
   2. Hashtable
